@@ -1,0 +1,71 @@
+/* 1. Write a selector to target the h1 in the first “hero” section */
+/* .jumbotron div h1 {
+  color: green;
+} */
+
+/* 2. Write a selector to target every children of the navbar */
+/* 
+.nav > * {
+  color: red;
+} */
+
+/* 3.Write a selector to target the “continue reading…” inside the jumbotron*/
+
+/* .jumbotron a {
+  color: yellow;
+} */
+
+/* 4. Write a selector to target the first blogpost*/
+
+/* div.row.mb-2 > div.col-md-6:first-of-type {
+  background-color: red;
+} */
+
+/* 5.Write a selector to target the first blogpost <hr> and turn it red*/
+
+/* div.blog-post:first-of-type hr {
+  border-top: 1px solid red;
+} */
+
+/* 6. Write a selector to target the “even” links in the navbar */
+
+/* .nav > *:nth-child(2n) {
+  color: red;
+} */
+
+/* 7. Write a selector to target all the <li> into the first ordered-list in the sidebar ( Archives ) */
+/* 
+ol.list-unstyled.mb-0 li a {
+  color: red;
+} */
+
+/* 8.Write a selector to target the second blog-post author */
+
+/* div.blog-post:nth-child(3) .blog-post-meta a {
+  background-color: red;
+} */
+
+/* 9. Write a selector to target the second <li> in the third blog-post unordered-list*/
+
+/* div.blog-post:last-of-type ul li:nth-child(2) {
+  color: red;
+} */
+
+/* 10. Write a selector to target the “back to top” link you can find at the bottom-right corner*/
+
+/* 
+footer + a {
+  color: red;
+} */
+
+/* 11. Write a selector to target the “Newer” button at the bottom*/
+/* 
+.blog-pagination a:last-of-type {
+  background-color: red;
+} */
+
+/* 12. Write a selector to target the footer’s second link*/
+
+/* .blog-footer a:last-of-type {
+  color: red;
+} */
